@@ -1,4 +1,6 @@
-# Self Introduction ✋
+# Self Introduction
+![image](https://user-images.githubusercontent.com/14067398/89019460-49fb2500-d358-11ea-8791-d2821051508c.png)
+  
 I'm Japanese Software Developer working at Tokyo.   
 Interactivity web technologies and container-native architectures are addicting me now.
 
